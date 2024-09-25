@@ -4,7 +4,7 @@ import Header from './components/Header';
 import FeatureCard from './components/FeatureCard';
 import FeaturedCourses from './components/FeaturedCourses'
 import About from './components/About';
-import Testimonials from './components/testimonials';
+import Testimonials from './components/Testimonials'
 import FeaturedCoursesCrads from './components/FeaturedCoursesCrads';
 import LatestNewsEvents from './components/LatestNewsEvents';
 import Footer from './components/Footer';
@@ -20,7 +20,7 @@ function App() {
       <FeatureCard />
       <FeaturedCourses />
       <About />
-      <Testimonials />
+      <Testimonials/>
       <FeaturedCoursesCrads />
       <LatestNewsEvents />
       <PhotoCollage/>
